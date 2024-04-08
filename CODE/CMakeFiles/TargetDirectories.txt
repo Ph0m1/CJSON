@@ -1,0 +1,3 @@
+/home/ph0m/test/CODE/CMakeFiles/Json.dir
+/home/ph0m/test/CODE/CMakeFiles/edit_cache.dir
+/home/ph0m/test/CODE/CMakeFiles/rebuild_cache.dir
